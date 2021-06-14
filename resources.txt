@@ -11,6 +11,7 @@
  
  Google Cloud Platform Logo Detection:
  https://cloud.google.com/vision/docs/detecting-logos
+ https://www.youtube.com/watch?v=VWnJgc90BAo
  
  Datasets:
  https://www.kaggle.com/kevinhartman0/advertisement-transcripts-from-various-industries
