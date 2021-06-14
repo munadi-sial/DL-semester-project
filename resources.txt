@@ -1,3 +1,7 @@
+ Audio Extraction from Video:
+ https://www.youtube.com/watch?v=s7lS54OJ5Uc
+ https://www.youtube.com/watch?v=FM6kHcXpw98
+ 
  Speech To Text Recognition:
  https://www.youtube.com/watch?v=GluSLXFGfJ8
  https://www.youtube.com/watch?v=3vCQTZCs5sc
@@ -10,4 +14,3 @@
  
  Datasets:
  https://www.kaggle.com/kevinhartman0/advertisement-transcripts-from-various-industries
- 
