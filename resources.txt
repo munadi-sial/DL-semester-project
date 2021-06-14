@@ -1,0 +1,13 @@
+ Speech To Text Recognition:
+ https://www.youtube.com/watch?v=GluSLXFGfJ8
+ https://www.youtube.com/watch?v=3vCQTZCs5sc
+ 
+ Custom Named Entity Recognition:
+ https://www.youtube.com/watch?v=1ePkOSGoIFI
+ 
+ Google Cloud Platform Logo Detection:
+ https://cloud.google.com/vision/docs/detecting-logos
+ 
+ Datasets:
+ https://www.kaggle.com/kevinhartman0/advertisement-transcripts-from-various-industries
+ 
